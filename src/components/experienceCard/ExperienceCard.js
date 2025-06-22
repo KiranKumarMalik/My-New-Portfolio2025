@@ -108,6 +108,29 @@ class ExperienceCard extends Component {
                 <div className="repo-description" />
                 {experience["description"]}
               </div>
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "flex-start",
+                  marginTop: 20,
+                  fontWeight: "bold",
+                  fontStyle: "italic"
+                }}
+              >
+                <div className="repo-tools" />
+                {experience["tools"]}
+              </div>
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "flex-start",
+                  marginTop: 20,
+                  fontStyle: "italic",
+                }}
+              >
+                <div className="repo-skill" />
+                {experience["skill"]}
+              </div>
             </div>
           </div>
         </Fade>

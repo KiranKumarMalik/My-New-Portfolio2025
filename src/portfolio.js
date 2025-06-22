@@ -554,7 +554,9 @@ const experience = {
           duration: "June 2025 - Present",
           location: "Bengaluru, Karnataka",
           description:
-            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+            "As a Quality Assurance Engineer at Omnicom, I play a critical role in ensuring the reliability, performance, and quality of software products through comprehensive testing and automation strategies. My responsibilities involve collaborating with cross-functional teams to define quality standards, identify issues early in the development lifecycle, and maintain high standards for product releases.",
+          tools: "Tools & Technologies:",
+          skill: "Selenium | Postman | JIRA | Git | Python | PyTest | Jenkins | Docker | JMeter | SQL | CI/CD | Agile Scrum",
           color: "#000000",
         },
         {
@@ -565,8 +567,10 @@ const experience = {
           duration: "June 2024 - June 2025",
           location: " Muttayyapuram, Tamil Nadu 628005",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-          color: "#0879bf",
+            "DevOps Engineer with 1 year of experience at PearlThoughts, specializing in CI/CD pipeline development, cloud infrastructure (AWS/Azure), containerization (Docker, Kubernetes), and automation using tools like Jenkins, Git, and Terraform to enable scalable and efficient deployment workflows.",
+          tools: "Tools & Technologies:",
+          skill: "Git | GitHub | GitLab | Jenkins | GitHub Actions | Docker | Kubernetes | Terraform | AWS (EC2, S3, RDS, IAM) | Ansible | Prometheus | Grafana | ELK Stack | Bash | Shell | Python | Linux | Maven | Nexus | Nginx | Jira |",
+            color: "#0879bf",
         },
         {
           title: "Associate Software Consultant",
@@ -576,8 +580,10 @@ const experience = {
           duration: "March 2024 - June 2024",
           location: "DEPL Building, 3rd Floor Y5, College More, Sector V Salt Lake, Kolkata, West Bengal, India -700091",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-          color: "#0879bf",
+            "Worked as an Associate Software Consultant at Tuteck Technologies for 4 months, contributing to full-stack web application development, debugging, and deployment using technologies like Python, Django, HTML, CSS, JavaScript, and SQL.",
+          tools: "Tools & Technologies:",
+          skill: "Python | Django | HTML | CSS | JavaScript | SQL | PostgreSQL | Git | GitHub | VS Code | Postman | Linux | REST API | Agile",
+            color: "#0879bf",
         },
       ],
     },
@@ -592,31 +598,10 @@ const experience = {
           duration: "July 2023 - Dec 2023",
           location: "Bengaluru, Karnataka",
           description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
+            "Completed a 6-month internship as an AWS Solutions Architect at Usrya Artivison Pvt. Ltd., focusing on designing scalable cloud architectures, deploying services using EC2, S3, RDS, and Lambda, and implementing security, cost optimization, and high availability best practices.",
+          tools: "Tools & Technologies:",
+          skill: "AWS EC2 | S3 | RDS | Lambda | IAM | VPC | CloudWatch | CloudFormation | Route 53 | Elastic Load Balancer (ELB) | Auto Scaling | AWS CLI | AWS Console | Linux | Git | Python | Boto3",
           color: "#000000",
-        },
-        {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
-          description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-          color: "#ee3c26",
-        },
-        {
-          title: "Data Science Intern",
-          company: "Intel Indexer LLC",
-          company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
-          location: "Work From Home",
-          description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-          color: "#0071C5",
         },
       ],
     },
@@ -624,21 +609,21 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Google Explore ML Facilitator",
-          company: "Google",
-          company_url: "https://about.google/",
-          logo_path: "google_logo.png",
-          duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
+          title: "Solving for India 2023",
+          company: "Geeks for Geeks",
+          company_url: "https://practice.geeksforgeeks.org/solving-for-india-hackathon",
+          logo_path: "geeks.jpg",
+          duration: "March 2023 - June 2023",
+          location: "Bhubaneswar, Odisha",
           description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+            "Volunteered in Solving for India 2023 Hackathon organized by GeeksforGeeks, contributing to coordination, participant support, and event operations, helping foster innovation and collaboration among tech enthusiasts. Recognized for my efforts and awarded goodies by GeeksforGeeks.",
           color: "#4285F4",
         },
         {
-          title: "Microsoft Student Partner",
-          company: "Microsoft",
-          company_url: "https://www.microsoft.com/",
-          logo_path: "microsoft_logo.png",
+          title: "Kavach 2023 - Cybersecurity Hackathon",
+          company: "Government of India",
+          company_url: "https://kavach.mic.gov.in/",
+          logo_path: "kavach.png",
           duration: "Aug 2019 - May 2020",
           location: "Hyderabad, Telangana",
           description:
@@ -646,38 +631,15 @@ const experience = {
           color: "#D83B01",
         },
         {
-          title: "Mozilla Campus Captain",
-          company: "Mozilla",
-          company_url: "https://www.mozilla.org/",
-          logo_path: "mozilla_logo.png",
-          duration: "Oct 2019 - May 2020",
+          title: "Smart India Hackathon Volunteer",
+          company: "Government of India",
+          company_url: "https://www.sih.gov.in/",
+          logo_path: "sih.jpg",
+          duration: "Aug 2022 - Oct 2022",
           location: "Kurnool, Andhra Pradesh",
           description:
             "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
           color: "#000000",
-        },
-        {
-          title: "Developer Students Club Member",
-          company: "DSC IIITDM Kurnool",
-          company_url:
-            "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
-          logo_path: "dsc_logo.png",
-          duration: "Jan 2018 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
-          color: "#0C9D58",
-        },
-        {
-          title: "Developer Program Member",
-          company: "Github",
-          company_url: "https://github.com/",
-          logo_path: "github_logo.png",
-          duration: "July 2019 - PRESENT",
-          location: "Work From Home",
-          description:
-            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-          color: "#181717",
         },
       ],
     },
