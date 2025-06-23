@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Kiran Kumar Malik",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://kirankumarmalik.com/",
   },
 };
 
