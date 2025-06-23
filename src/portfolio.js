@@ -27,7 +27,7 @@ const greeting = {
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  githubProfile: "https://github.com/KiranKumarMalik",
 };
 
 const socialMediaLinks = [
@@ -86,6 +86,51 @@ const socialMediaLinks = [
 
 const skills = {
   data: [
+    {
+      title: "Cloud Computing & DevOps",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
+        "⚡ Experience of working with Computer Vision and NLP projects",
+        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Tensorflow",
+          fontAwesomeClassname: "logos-tensorflow",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Keras",
+          fontAwesomeClassname: "simple-icons:keras",
+          style: {
+            backgroundColor: "white",
+            color: "#D00000",
+          },
+        },
+        {
+          skillName: "PyTorch",
+          fontAwesomeClassname: "logos-pytorch",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Deeplearning",
+          imageSrc: "deeplearning_ai_logo.png",
+        },
+      ],
+    },
     {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
@@ -477,60 +522,6 @@ const certifications = {
       alt_name: "Oracle",
       color_code: "#faefe9",
     },
-    {
-      title: "Advanced ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
-      logo_path: "coursera_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-      alt_name: "Coursera",
-      color_code: "#2A73CC",
-    },
-    {
-      title: "Kuberenetes on GCP",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
-      certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
-      color_code: "#FFBB0099",
-    },
-    {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
   ],
 };
 
@@ -539,7 +530,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with both startups and MNCs, gaining versatile experience across Python Full Stack Development, DevOps, QA Engineering, and Cloud technologies. I contributed to designing and developing scalable web applications using modern frameworks, automated deployment pipelines using CI/CD practices, ensured product quality through rigorous testing strategies, and managed cloud infrastructure to support reliable and secure deployments. This cross-functional exposure has equipped me with a solid understanding of end-to-end software development and delivery lifecycle.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -591,6 +582,19 @@ const experience = {
       title: "Internships",
       experiences: [
         {
+          title: "Python Full Stack Development with DevOps",
+          company: "PySpider Training Institute",
+          company_url: "https://www.tiktok.com/en/",
+          logo_path: "pyspider.jpg",
+          duration: "June 2024 - April 2025",
+          location: "Bengaluru, Karnataka",
+          description:
+            "Completed training in Python Full Stack Development with DevOps at PySpider, Bengaluru, where I gained hands-on experience in building end-to-end web applications using modern technologies. The training covered core Python programming, front-end development with HTML, CSS, JavaScript, and frameworks like React, as well as back-end development using Django/Flask. In addition, I learned DevOps practices including CI/CD pipelines, containerization with Docker, version control with Git, and deployment on cloud platforms.",
+          tools: "Tools & Technologies:",
+          skill: "Python | Django | Flask | HTML | CSS | JavaScript | React | Git | GitHub | Docker | Jenkins | CI/CD | MySQL | PostgreSQL | Linux | AWS | REST APIs",
+          color: "#000000",
+        },
+        {
           title: "AWS Solution Architect Intern",
           company: "Usrya Artivison Pvt. Ltd.",
           company_url: "https://www.tiktok.com/en/",
@@ -627,7 +631,7 @@ const experience = {
           duration: "Aug 2019 - May 2020",
           location: "Hyderabad, Telangana",
           description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
+            "Volunteered in KAVACH 2023 Cybersecurity Hackathon organized by the Government of India, supporting event logistics, team coordination, and technical facilitation to promote innovation in cybersecurity solutions for national challenges.",
           color: "#D83B01",
         },
         {
@@ -638,7 +642,7 @@ const experience = {
           duration: "Aug 2022 - Oct 2022",
           location: "Kurnool, Andhra Pradesh",
           description:
-            "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
+            "Volunteered in Smart India Hackathon 2022 organized by the Government of India, assisting in event coordination, participant management, and logistical support to ensure seamless execution of one of the nation’s largest innovation-driven hackathons.",
           color: "#000000",
         },
       ],
