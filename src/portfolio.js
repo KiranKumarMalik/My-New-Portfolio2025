@@ -458,7 +458,7 @@ const degrees = {
       duration: "2021 - 2023",
       descriptions: [
         "⚡ Completed Class X with a strong academic foundation across all subjects under ICSE (Indian Certificate of Secondary Education) curriculum.",
-        "⚡ Participated in school-level Olympiads and co-curricular competitions, reflecting a balanced academic profile.",
+        "⚡ Participated in school-level co-curricular competitions, reflecting a balanced academic profile.",
         "⚡ Awarded certificates of merit for consistent performance and discipline throughout the academic year.",
       ],
       website_link: "https://happyhomeschoolbhadrak.org/",
