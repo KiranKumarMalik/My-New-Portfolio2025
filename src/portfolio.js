@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Kiran Kumar Malik",
   description:
-    "A passionate who always thrives which develop and scalable social and technical systems to create.",
+    "A passionate who always thrives which develop and scalable social and technical systems to.",
   og: {
     title: "Kiran Kumar Malik",
     type: "website",
