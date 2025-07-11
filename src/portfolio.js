@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Kiran Kumar Malik",
   description:
-    "A passionate who always thrives which develop and scalable and two. I have profession on technology. I am workin as QA Engineer at Omnicom Global Solutions",
+    "A passionate who always thrives which develop and scalable and two. I have on technology. I am workin as QA Engineer at Omnicom Global Solutions",
   og: {
     title: "Kiran Kumar Malik",
     type: "website",
