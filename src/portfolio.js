@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "KiranKumarMalik",
   nickname: "kiran",
   subTitle:
-    "A passionate always to and social and to create impact of the nation, I am passionate. I am a QA Engineer at Omnicom Global Solutions. I have skills on Python, Selenium",
+    "A passionate always to and social and to create impact of the nation, I am passionate. I am a QA Engineer at Omnicom Global Solutions. I have skills on Python, Selenium, Devops",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
